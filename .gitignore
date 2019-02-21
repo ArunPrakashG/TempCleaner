@@ -1,0 +1,7 @@
+
+*.ide-wal
+*.lock
+*.ide
+*.ide-shm
+*.application
+*.pfx
